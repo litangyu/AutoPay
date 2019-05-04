@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">sample</string>
+
+    <string name="alipay">Alipay</string>
+    <string name="wechat">WeChat</string>
+
+    <string name="test_qrcode">FKX03108APKA1JNP5ZCE5D?t=1531799314639</string>
+    <string name="test_said">FKX03108APKA1JNP5ZCE5D?t=1531799314639</string>
+
+    <string name="hint_qrcode">Input or copy your qrcode parameter to here</string>
+    <string name="hint_said">Input or copy alipay saId to here</string>
+
+    <string name="client_status">client={name}, install={installed}, version={version}</string>
+
+    <string name="open_scan_qrcode">Open Scan QRCode</string>
+    <string name="open_pay_barcode">Open Pay Barcode</string>
+    <string name="open_transfer">Open Transfer</string>
+    <string name="open_sub_assembly">Open Sub Assembly</string>
+
+</resources>
